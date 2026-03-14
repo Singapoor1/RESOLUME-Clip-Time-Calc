@@ -1,4 +1,4 @@
-# RESOLUME-Clip-Time-Calc
+# RESOLUME_ARENA-Clip-Time-Calc
 A simple utility for calculating the total duration of selected clips in Resolume Arena. 
 
 This tool works by parsing XML data copied directly from Resolume and summing the clip durations automatically.
